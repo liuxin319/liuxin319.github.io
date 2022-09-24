@@ -1,5 +1,5 @@
 ---
-title: 博客
-layout: 博客
+title: Blog
+layout: blog
 ---
 
